@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ezequiel and I'm a Full stack developer</h2>
+<h2 align="center">Hi 👋! My name is Ezequiel and I'm a Developer</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 </div>
 
 ###
-<h3 align="center">Full stack developer skills </h2>
+<h3 align="center">Developer skills </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
